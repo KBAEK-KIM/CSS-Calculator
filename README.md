@@ -1,1 +1,1 @@
-# super-duper-octo-funicular
+# Javascript Calculator
